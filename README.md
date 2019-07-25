@@ -7,7 +7,7 @@ List of Movies and T.V. I have watched and I recommend all of you to watch
 2. The Hangover II
 3. The Hangover III
 4. Due Date
-5. The Dictator
+5. Dictator
 6. Harold & Kumar Get the Munchies
 7. Harold and Kumar Go to White Castle
 8. A Very Harold & Kumar 3D Christmas
@@ -44,6 +44,7 @@ List of Movies and T.V. I have watched and I recommend all of you to watch
 2. Gravity
 3. The Matrix
 3. Matrix : Reloaded
+4. In Time
 ### 18+
 1. American Pie (All Parts)
 2. Project X
