@@ -1,5 +1,25 @@
 # Movies and T.V.Series
 List of Movies and T.V. I have watched and I recommend all of you to watch
+## Web-Series
+1. Pitchers (TVF)
+2. Baked (ScoopWhoop)
+3. Baked Season 2 (ScoopWhoop)
+4. A.I.SHA (Arre)
+5. Kota factory (TVF)
+6. Gullak (Sony LIV)
+7. Yeh Meri Family (TVF)
+8. Lakhon Mein Ek (Amazon Prime)
+9. Sacred Games (NetFlix)
+10. Mirzapur (Amazon Prime)
+11. Made in Heaven (Amazon Prime)
+12. Flames (The Timeliners)
+13. College Romance (The Timeliners)
+14. The Aam Aadmi Family [All season] (The Timeliners)
+15. Tripling (TVF)
+16. Bachelors (TVF)
+17. Life Sahi Hai (ZEE5)
+18. Apharan (ALT Balaji)
+19. Bose: Dead or ALive (ALT Balaji)
 ## T.V. Series
 ### Comedy
 1. The Office
