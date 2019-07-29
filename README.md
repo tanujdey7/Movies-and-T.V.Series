@@ -1,6 +1,22 @@
 # Movies and T.V.Series
 List of Movies and T.V. I have watched and I recommend all of you to watch
-
+## T.V. Series
+### Comedy
+1. The Office
+2. BoJack Horseman
+3. Citizen Khan
+### Drama
+1. Breaking Bad
+2. Narcos
+3. Narcos Mexico
+4. Better Call Saul
+5. Mr. Robot
+6. Scorpion
+### Sci-Fi
+1. Rick and Morty
+### 18+
+1. Sex Education
+2. Californication
 ## Movies
 ### Comedy
 1. The Hangover 
@@ -39,14 +55,19 @@ List of Movies and T.V. I have watched and I recommend all of you to watch
 13. Nil Battey Sanata
 14. Stanley ka dabba
 15. The LunchBox
+16. Black Friday
+17. Satya
+18. In Brudges
 ### Sci-Fi
 1. Interstellar
 2. Gravity
 3. The Matrix
 3. Matrix : Reloaded
 4. In Time
+5. The Martian
 ### 18+
 1. American Pie (All Parts)
 2. Project X
 3. The Bridesmaid
 4. The Dirty Grandpa
+5. The Girl Next Door
