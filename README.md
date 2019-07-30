@@ -20,6 +20,7 @@ List of Movies and T.V. I have watched and I recommend all of you to watch
 17. Life Sahi Hai (ZEE5)
 18. Apharan (ALT Balaji)
 19. Bose: Dead or ALive (ALT Balaji)
+20. Selection Day (Netflix)
 ## T.V. Series
 ### Comedy
 1. The Office
