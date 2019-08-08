@@ -31,8 +31,10 @@ List of Movies and T.V. I have watched and I recommend all of you to watch
 2. Narcos
 3. Narcos Mexico
 4. Better Call Saul
+8. Sherlock Holmes
 5. Mr. Robot
 6. Scorpion
+7. Suits
 ### Sci-Fi
 1. Rick and Morty
 ### 18+
@@ -56,6 +58,7 @@ List of Movies and T.V. I have watched and I recommend all of you to watch
 14. Bhagam Bhag
 15. Welcome
 16. ChopSticks
+17. The Change Up
 ### Entrepreneur
 1. Steve Jobs
 2. The Big Short 
@@ -80,6 +83,15 @@ List of Movies and T.V. I have watched and I recommend all of you to watch
 16. Black Friday
 17. Satya
 18. In Brudges
+19. Good will hunting
+20. A beautiful mind
+21. Whiplash
+22. Ratatouille
+23. Cinderalla Man
+24. Nightcrawler
+25. The Worlds Fastest Indian
+26. Freedom Writers
+27. Rain Man
 ### Sci-Fi
 1. Interstellar
 2. Gravity
