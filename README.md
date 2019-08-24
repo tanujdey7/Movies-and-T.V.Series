@@ -3,9 +3,11 @@
 2. Black Friday
 3. Gangs of Wasseypur 1 & 2
 4. Ugly
+5. Delhi Belly
 5. Gulaal
 6. Paanch 
 7. Dev D.
+8. Hunterrr
 8. Love sex aur Dhokha (LSD)
 9. Last Train to Mahakali
 10. Udaan
