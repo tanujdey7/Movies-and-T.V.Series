@@ -1,3 +1,18 @@
+# List of Dark/Black Humour Movies.
+1. Satya
+2. Black Friday
+3. Gangs of Wasseypur 1 & 2
+4. Ugly
+5. Gulaal
+6. Paanch 
+7. Dev D.
+8. Love sex aur Dhokha (LSD)
+9. Last Train to Mahakali
+10. Udaan
+11. B.A. Pass
+12. The Girl in Yellow Boots
+13. Raman Raghav 2.0
+
 # Movies and T.V.Series
 List of Movies and T.V. I have watched and I recommend all of you to watch
 ## Web-Series
