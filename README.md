@@ -43,6 +43,8 @@ List of Movies and T.V. I have watched and I recommend all of you to watch
 20. Selection Day (Netflix)
 21. Inside Edge S1 (Amazon Prime)
 22. Inside Edge S2 (Amazon Prime)
+23. Lakhon Mein Ek S2 (Amazon Prime)
+
 ## T.V. Series
 ### Comedy
 1. The Office
