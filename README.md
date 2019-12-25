@@ -14,6 +14,9 @@
 11. B.A. Pass
 12. The Girl in Yellow Boots
 13. Raman Raghav 2.0
+14. No Smoking
+15. Gulaal
+16. Joker 
 
 # Movies and T.V.Series
 List of Movies and T.V. I have watched and I recommend all of you to watch
@@ -38,6 +41,8 @@ List of Movies and T.V. I have watched and I recommend all of you to watch
 18. Apharan (ALT Balaji)
 19. Bose: Dead or ALive (ALT Balaji)
 20. Selection Day (Netflix)
+21. Inside Edge S1 (Amazon Prime)
+22. Inside Edge S2 (Amazon Prime)
 ## T.V. Series
 ### Comedy
 1. The Office
@@ -109,6 +114,8 @@ List of Movies and T.V. I have watched and I recommend all of you to watch
 25. The Worlds Fastest Indian
 26. Freedom Writers
 27. Rain Man
+28. The Irishman
+29. Once Upon A Time in Hollywood
 ### Sci-Fi
 1. Interstellar
 2. Gravity
