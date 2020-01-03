@@ -17,6 +17,9 @@
 14. No Smoking
 15. Gulaal
 16. Joker 
+17. Titli
+18. Ishqiya
+19. Udta Punjab
 
 # Movies and T.V.Series
 List of Movies and T.V. I have watched and I recommend all of you to watch
@@ -98,7 +101,6 @@ List of Movies and T.V. I have watched and I recommend all of you to watch
 7. Gangs of Wasseypur I
 8. Gangs of Wasseypur II
 9. Dil Chahta Hai
-10. Titli
 11. Trapped
 12. Masaan
 13. Nil Battey Sanata
@@ -118,6 +120,7 @@ List of Movies and T.V. I have watched and I recommend all of you to watch
 27. Rain Man
 28. The Irishman
 29. Once Upon A Time in Hollywood
+30. The Death in the Gunj
 ### Sci-Fi
 1. Interstellar
 2. Gravity
