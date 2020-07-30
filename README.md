@@ -84,7 +84,7 @@ List of Movies and T.V. I have watched and I recommend all of you to watch
 13. Phir Hera Pheri
 14. Bhagam Bhag
 15. Welcome
-16. ChopSticks
+16. ChopSticks  
 17. The Change Up
 ### Entrepreneur
 1. Steve Jobs
@@ -121,6 +121,7 @@ List of Movies and T.V. I have watched and I recommend all of you to watch
 28. The Irishman
 29. Once Upon A Time in Hollywood
 30. The Death in the Gunj
+31. Forrest Gumo
 ### Sci-Fi
 1. Interstellar
 2. Gravity
